@@ -1,0 +1,28 @@
+{
+  "name": "movieinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArshadKhan-UOIT/movieInfo.git"
+  },
+  "keywords": [
+    "For",
+    "lab",
+    "8"
+  ],
+  "author": "Arshad Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArshadKhan-UOIT/movieInfo/issues"
+  },
+  "homepage": "https://github.com/ArshadKhan-UOIT/movieInfo#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-session": "^1.17.2"
+  }
+}

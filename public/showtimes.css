@@ -1,0 +1,117 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header1 {
+    background-color: #ec3c52;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 20px;
+}
+
+
+.headertitle {
+    background-color: #ec3c52;
+    margin: 0;
+    padding: 25px;
+    color: white;
+}
+
+.menus label {
+    margin-left: 75px;
+}
+
+select {
+    margin-left: 65px;
+}
+
+.menus {
+    
+}
+
+button {
+    margin-left: 95px;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: #ec3c52;
+    border-radius: 4px;
+    text-align: center;
+    width: 100px;
+    height: 45px;
+    color: white;
+}
+
+.tdCss {
+    margin-top: 25px;
+    margin-left: 75px;
+    padding: 15px;
+    border-bottom: 1px solid black;
+    /* border-top: 1px solid black; */
+}
+
+#showtimes {
+    margin-left: 45px;
+    margin-top: 10px;
+    padding: 5px;
+    width: 30%
+}
+
+.trCss:hover {
+    background-color: #e0e0ff;
+}
+
+.info {
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 15px;
+    margin: 15px;
+/* 
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black; */
+}
+
+.headings {
+    font-weight: bold;
+    width: 100px;
+}
+
+/* .details:first-child {
+    margin-top: 40px;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    justify-content: center;
+} */
+
+img {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+img {
+    width: 150px;
+    height: 230px;
+    margin-bottom: 15px;
+    margin-left: 150px;
+
+}
+
+
+
