@@ -1,7 +1,7 @@
 {
   "name": "movieinfo",
   "version": "1.0.0",
-  "description": "",
+  "description": "#### Lab 8 - Movie information website (Assignment 8) 1. Use `nodemon` 1. I made some changes, you have to click `Search` to have the below to appear",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
