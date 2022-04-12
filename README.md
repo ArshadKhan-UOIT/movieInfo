@@ -6,4 +6,4 @@
 
 1. Then you have to click `<A movie>` to have the details of the movie to appear like below ![Movie Info](/img/movieInfo.png)
 
-1. Overall it output pretty correctly ![Movie Overall](/img/overall.png)
+1. Overall it output is correctly ![Movie Overall](/img/overall.png)
